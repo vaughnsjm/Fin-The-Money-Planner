@@ -2,11 +2,11 @@
 
 A phone-first budget and cash planner that runs entirely in your browser. No account, no server and nothing leaves your device.
 
-**[Open the app](https://YOUR-USERNAME.github.io/cash-planner/)**
+**[Open the app](https://vaughnsjm.github.io/fin-the-money-planner/)**
 
 <p>
-  <img src="docs/example-budget.png" alt="Budget tab with example numbers" width="260">
-  <img src="docs/example-planner.png" alt="Planner tab with example numbers" width="260">
+  <img src="example-budget.png" alt="Budget tab with example numbers" width="260">
+  <img src="example-planner.png" alt="Planner tab with example numbers" width="260">
 </p>
 
 ## What it does
