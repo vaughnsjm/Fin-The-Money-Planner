@@ -38,7 +38,7 @@ Download `index.html` and open it in any desktop browser, or host it on any stat
 
 ## About
 
-Built by Joseph M. Vaughns, a healthcare operations and analytics professional, as a planning tool for real money decisions: a move, a new paycheck and the weeks in between. Designed and built with Claude.
+Built by MxrsTheCreative, a healthcare operations and analytics professional, as a planning tool for real money decisions: a move, a new paycheck and the weeks in between. Designed and built with Claude.
 
 This is a planning aid, not financial advice.
 
